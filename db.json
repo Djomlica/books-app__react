@@ -1,3 +1,16 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "One Book",
+      "id": 1
+    },
+    {
+      "title": "Another Book",
+      "id": 2
+    },
+    {
+      "title": "Presentation of Books",
+      "id": 3
+    }
+  ]
 }
